@@ -1,0 +1,128 @@
+baseURL = "https://polarisxu.studygolang.com"
+languageCode = "en"
+defaultContentLanguage = "zh-hans"
+title = "polarisxu"
+theme = "hermit"
+# enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "本文采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可，转载请注明 polarisxu 和出处链接。" # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+# googleAnalytics = "'UA-18275235-2"
+# disqusShortname = "yourdiscussshortname"
+
+[author]
+  name = "polarisxu"
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  since = "2019"
+  toc = true
+
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "polarisxu,Go语言中文网,go,golang,源码分析,系列教程"
+  # images = [""]
+  themeColor = "#494f5c"
+
+  homeSubtitle = "Go, Java&PHP, 服务端, 职场"
+  footerCopyright = ' &#183; <a href="http://www.beian.miit.gov.cn/">京ICP备14030343号-1</a>'
+  # bgImg = ""  # Homepage background-image URL
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  gitUrl = "https://github.com/polaris1119/polarisxu/commit/"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  relatedPosts = true  # Add a related content section to all single posts page
+
+  code_copy_button = false # Turn on/off the code-copy-button for code-fields
+  
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/polaris1119"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/polaris1119"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+    includeNewer = true
+    toLower = true
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+    includeNewer = true
+    toLower = true
+
+  [[related.indices]]
+    name = "date"
+    weight = 1
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    name = "文章"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "标签"
+    url = "tags/"
+    weight = 10
+
+  [[menu.main]]
+    name = "关于"
+    url = "about/"
+    weight = 20
+
+
+  [[menu.nav]]
+    name = "文章"
+    url = "posts/"
+    weight = 10
+
+  [[menu.nav]]
+    name = "Go系列"
+    url = "go-categories/"
+    weight = 11
+
+  [[menu.nav]]
+    name = "开发工具"
+    url = "devtool-categories/"
+    weight = 11
+
+  [[menu.nav]]
+    name = "关于"
+    url = "about/"
+    weight = 20
+  
+
+
+

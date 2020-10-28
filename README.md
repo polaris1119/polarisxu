@@ -1,12 +1,17 @@
-# polarisxu
+# polarisxu的博客
 
-公众号 polarisxu 号主。北京大学毕业；码农，创业者；Go语言中文网站长；著有《Go语言编程之旅》；爱 Go，也是 PHPer，还做过 Java；聊技术、聊职场、聊创业~
-
-![](imgs/polarisxu.png)
+北京大学毕业；码农，创业者；Go语言中文网站长；著有《Go语言编程之旅》；爱 Go，也是 PHPer，还做过 Java；聊技术、聊职场、聊创业~
 
 ## 在线阅读
 
-扫描上方二维码关注公众号，及时接收公众号更新优质文章。
+- https://polarisxu.studygolang.com/
 
-这里将公众号文章分类整理，[开始阅读](SUMMARY.md)。
+## 我的公众号
 
+polarisxu
+
+![](static/polarisxu.png)
+
+## License
+
+所有文章采用[采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/)进行许可

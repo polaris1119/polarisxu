@@ -1,0 +1,8 @@
+<p class="md__image">
+  <img src="{{ if strings.HasPrefix .Destination "http" -}}
+  {{- .Destination | safeURL -}}
+  {{- else -}}
+  ../{{ .Destination }}
+  {{- end -}}"
+    alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+</p>
