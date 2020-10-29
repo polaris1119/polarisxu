@@ -1,4 +1,14 @@
-# AI 和 数据科学领域，Go 语言可能很快会取代 Python。最后的原因有点迷
+---
+title: "AI 和 数据科学领域，Go 语言可能很快会取代 Python。最后的原因有点迷"
+date: 2020-10-29T21:40:00+08:00
+toc: true
+isCJKLanguage: true
+tags: 
+  - Go
+  - Python
+  - AI
+  - DataScience
+---
 
 30 年前，Python 首次出现。但是花了 20 年时间才能获得开发人员的赏识。快进到 2019 年，它成为开发人员中第二受欢迎的语言。（来自 [Stackoverflow 开发人员 2019 调查结果](https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted)）
 
