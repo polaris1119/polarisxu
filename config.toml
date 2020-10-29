@@ -32,7 +32,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Metadata mostly used in document's head
   description = "polarisxu,Go语言中文网,go,golang,源码分析,系列教程"
   # images = [""]
-  themeColor = "#494f5c"
+  themeColor = "#fcfcfc"
 
   homeSubtitle = "Go, Java&PHP, 服务端, 职场"
   footerCopyright = ' &#183; <a href="http://www.beian.miit.gov.cn/">京ICP备14030343号-1</a>'
