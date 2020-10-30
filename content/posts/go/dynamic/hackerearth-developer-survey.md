@@ -1,6 +1,6 @@
 ---
 title: "这个调查显示 Go 竟然是 2020 年最受欢迎的编程语言"
-date: 2020-10-30T18:12:00+08:00
+date: 2020-10-30T15:12:00+08:00
 toc: true
 isCJKLanguage: true
 tags: 
@@ -12,7 +12,7 @@ tags:
 
 今天看到一个 2020 年开发者调查报告，看到了 Go 的前景，忍不住想跟大家分享一下。
 
-## 01 
+## 01
 
 这份调查报告来自 [HackerEarth](https://www.hackerearth.com/)。简单介绍下它。
 
