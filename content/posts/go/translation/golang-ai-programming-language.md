@@ -60,7 +60,7 @@ Python 的[全局解释器锁](https://wiki.python.org/moin/GlobalInterpreterLoc
 
 Go 是静态类型化和编译的语言。这意味着执行速度将比 Python 快几倍。与 Python 不同，Go 不需要其他语言的帮助就可以更快。
 
-这是 Go 和 Python 之间的一个[小型基准测试游戏比较](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go-python3.html)。Go 几乎与 C++ 和 Java 一样快。而且，Go 的代码编译速度比 C+C 和 Java 快得多。
+这是 Go 和 Python 之间的一个[小型基准测试游戏比较](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/go-python3.html)。Go 几乎与 C++ 和 Java 一样快。而且，Go 的代码编译速度比 C/C++ 和 Java 快得多。
 
 ### 简单易学
 
