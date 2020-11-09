@@ -31,7 +31,7 @@ tags:
 
 从这个列表足以看出需求的广泛性。于是官方决定提供实现，在 go 命令中实现该功能。因为在 Go 命令中添加对嵌入基本功能的直接支持将消除对某些工具的需求，至少可以简化其他工具的实现。
 
-2020 年 10 月 30 日，Russ Cox 提交了最终的实现：[cmd/go: add //go:embed support](cmd/go: add //go:embed support)，意味着你在 tip 版本可以试用该功能了。Go1.16 版本会包含该功能。欢迎大家试用，反馈建议。
+2020 年 10 月 30 日，Russ Cox 提交了最终的实现：[cmd/go: add //go:embed support](https://github.com/golang/go/commit/25d28ec55aded46e0be9c2298f24287d296a9e47)，意味着你在 tip 版本可以试用该功能了。Go1.16 版本会包含该功能。欢迎大家试用，反馈建议。
 
 ## 01 试用 go embed
 
