@@ -16,7 +16,7 @@ tags:
 
 > This is a community we build together. Please be welcoming and open minded.
 
-不过目前该功能还在公测中，具体正式发布时间还未知。如果你想自己的项目试用该功能，可以到 <https://github.com/github/feedback/discussions> 这里去提出申请，请求 GitHub 将你的项目加入 Beta 列表中。这里有别人请求加入的交流：<https://github.com/github/feedback/discussions/24>。
+不过目前该功能还在公测中，具体正式发布时间还未知。如果你想自己的项目试用该功能，可以到 <https://github.com/github/feedback/discussions> 提出申请，请求 GitHub 将你的项目加入 Beta 列表中。这里有别人请求加入的交流：<https://github.com/github/feedback/discussions/24>。
 
 ## 01 一睹 Discussions
 
