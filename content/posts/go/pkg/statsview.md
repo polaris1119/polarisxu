@@ -73,7 +73,7 @@ statsview 的使用较简单。
 - import "github.com/go-echarts/statsview”
 -  mgr := statsview.New()
 - mgr.Start()
-- 打开浏览器访问：http://localhost:18066/statsview/debug
+- 打开浏览器访问：http://localhost:18066/debug/statsview
 - 尽情享受吧~
 
 此外，可以通过 `viewer.SetConfiguration(opts …Option)`改变一些行为，包括：
