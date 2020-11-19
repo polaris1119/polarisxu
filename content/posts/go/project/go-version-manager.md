@@ -67,7 +67,7 @@ ln -s go1.15 go
 
 ## 2、安装 goup
 
-因为 goup 本身是 Go 语言实现的，因此他通过一个脚本下载对应系统的预编译 goup 程序。当前最新版本 0.0.7 （这个工具是 9 月底开发的），当然你也可以自己手动下载这些编译好 goup 程序。（如果你本地安装了 Go 版本，直接 go get -u -v github.com/owenthereal/goup 安装也是可以的）
+因为 goup 本身是 Go 语言实现的，因此他通过一个脚本下载对应系统的预编译 goup 程序。当前最新版本 0.0.7 （这个工具是 9 月底开发的），当然你也可以自己手动下载这些编译好 goup 程序。（如果你本地安装了 Go 版本，直接 go get -u -v github.com/owenthereal/goup/... 安装也是可以的）
 
 ![](imgs/goup01.png)
 
@@ -180,3 +180,15 @@ drwxr-xr-x   2 xuxinhua  staff   64 10  9 17:10 gotip
 整体上，目前 goup 的使用还是比较顺畅的。欢迎大家试用，可以顺便给个 star。对了，项目地址：<https://github.com/owenthereal/goup>。
 
 对了，至于为什么会需要管理多版本，我想很多人还会有这样的需求吧？！你为什么需要呢？欢迎留言。
+
+## 7、更新
+
+上面提到的点，目前差不多解决了。
+
+- 提供了 goup ls-ver 命令列出 Go 版本
+- 提供 goup remove 命令删除某个已安装的 Go 版本
+- 还提供了 goup upgrade 来升级自己
+
+此外当执行 goup install 时，默认会安装当前最新发布版本，大陆会有问题，可以通过如下方式解决：
+
+> GOUP_GO_HOST=golang.google.cn goup install
