@@ -7,6 +7,8 @@ tags:
   - echo
   - web框架
   - 日志库
+categories:
+  - Echo系列
 ---
 
 在知识星球简书项目中，我们分析对比了目前的一些日志库。虽然 Go 标准库有一个 log，但功能有限，所以才出现了很多第三方的日志库。在 [用 Go 实现一个简书 8：日志记录和优秀库的学习](https://studygolang.com/topics/10625) 中，我们得出结论，推荐大家使用 [zerolog](https://github.com/rs/zerolog)。现在我们就将 zerolog 集成进 Echo 框架中。

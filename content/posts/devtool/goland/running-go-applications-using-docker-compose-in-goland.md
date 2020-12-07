@@ -6,6 +6,8 @@ tags:
   - GoLand
   - Docker
   - Compose
+categories:
+  - 开发工具
 ---
 
 今天，我们将继续有关[如何使用 Docker 运行](https://mp.weixin.qq.com/s/2tajxPBhGwgwlT4TzAgmVw)和[调试 Go 应用程序](https://mp.weixin.qq.com/s/4-fkIWcr_3LdLFALVk4ZTA)的系列文章。

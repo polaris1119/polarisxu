@@ -6,6 +6,8 @@ tags:
   - GoLand 
   - Kubernetes
   - Debug
+categories:
+  - 开发工具
 ---
 
 这是我们使用 Docker，Docker Compose 或 Kubernetes 运行 Go 服务的系列文章的最后一部分。在这一部分中，我们将专注于使用 Kubernetes 集群时的运行和调试。

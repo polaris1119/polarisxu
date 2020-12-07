@@ -8,6 +8,8 @@ tags:
   - web框架
   - 扩展
   - server
+categories:
+  - Echo系列
 ---
 
 这是定制篇的最后一节，讲解 Server 的自定义。

@@ -11,6 +11,8 @@ tags:
   - echo
   - web框架
   - 开发环境
+categories:
+  - Echo系列
 ---
 
 工欲善其事必先利其器。我们先搞定 Echo 环境。

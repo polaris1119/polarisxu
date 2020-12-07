@@ -6,6 +6,8 @@ tags:
   - GoLand
   - 开发工具
   - 发布
+categories:
+  - 开发工具
 ---
 
 北京时间 2020 年 4 月 10 日凌晨，Jetbrains 宣布正式发布 GoLand 2020.1 版本。

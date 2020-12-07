@@ -10,6 +10,8 @@ keywords:
 tags: 
   - echo
   - web框架
+categories:
+  - Echo系列
 ---
 
 大家好，从今天起，我们一起来学习 Echo 框架。

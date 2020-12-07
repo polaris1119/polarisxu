@@ -5,6 +5,8 @@ toc: true
 tags: 
   - GoLand
   - 开发工具
+categories:
+  - 开发工具
 ---
 
 GoLand 2020.1 抢先体验计划已经启动。对于此发行版，我们着重于易用性，性能以及减少浪费在样板代码和 IDE 中的冗余操作上的时间。我们还包括对 Go Modules 支持的升级，和其他更多功能。您可以在 2020.1 的[路线图博客](https://blog.jetbrains.com/go/2019/12/24/whats-next-goland-2020-1-roadmap/)文章中找到简短说明。

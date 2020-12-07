@@ -21,7 +21,7 @@ tags:
 
 - 看 Go 仓库的提交记录；
 
-  ![image-20201202180414759](/Users/xuxinhua/Library/Application Support/typora-user-images/image-20201202180414759.png)
+  ![](imgs/go-commit-log.png)
 - 查看 <https://tip.golang.org>。这个一般在一个版本开发了一段时间看，比如现在可以看 Go1.16 的一些内容，主要可以看还未完成的 Release Notes：<https://tip.golang.org/doc/go1.16>。其实这个文件是 Go 代码仓库中的 doc/go1.16.html；
 
 此外，Reddit 的 r/golang 频道也会有很多信息。

@@ -7,6 +7,8 @@ tags:
   - Go
   - Golang
   - Playground
+categories:
+  - 开发工具
 ---
 
 曾几何时，语言的在线运行（Playground）似乎成了标配。确实，Playground 能够让我们可以快速试验一些想法。Go 语言在发布之初就提供了一个，这就是 <https://play.golang.org>。然而，由于众所周知的原因，我们访问不了。为了方便国内广大 gopher，我搞了一个国内镜像：<https://play.studygolang.com>，尽情使用、分享吧。

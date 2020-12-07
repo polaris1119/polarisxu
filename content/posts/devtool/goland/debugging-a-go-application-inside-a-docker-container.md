@@ -6,6 +6,8 @@ tags:
   - GoLand
   - 开发工具
   - Docker
+categories:
+  - 开发工具
 ---
 
 今天，我们开始撰写一系列有关 GoLand 内部对 Docker，Docker Compose 和 Kubernetes 的支持以及它如何帮助我们在 Go 中编写（微）服务的文章。

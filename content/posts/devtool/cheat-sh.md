@@ -6,6 +6,8 @@ isCJKLanguage: true
 tags: 
   - cheatsheet
   - tool
+categories:
+  - 开发工具
 ---
 
 大家好，我是站长 polarisxu。

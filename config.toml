@@ -9,6 +9,7 @@ pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "本文采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可，转载请注明 polarisxu 和出处链接。" # This message is only used by the RSS template.
+summarylength = 180
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "'UA-18275235-2"
 # disqusShortname = "yourdiscussshortname"
@@ -18,7 +19,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [taxonomies]
   tag = "tags"
-  # Categories are disabled by default.
+  categories = "categories"
 
 [params]
   since = "2019"
@@ -47,9 +48,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   relatedPosts = true  # Add a related content section to all single posts page
 
   code_copy_button = false # Turn on/off the code-copy-button for code-fields
+
+  mainSections = ["posts"]
   
   # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
+  customCSS = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css", "css/styles.css"]
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
@@ -102,21 +105,25 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "about/"
     weight = 20
 
+  [[menu.nav]]
+    name = "首页"
+    url = "/"
+    weight = 8
 
   [[menu.nav]]
-    name = "文章"
-    url = "posts/"
+    name = "Echo系列"
+    url = "categories/echo%E7%B3%BB%E5%88%97/"
     weight = 10
 
   [[menu.nav]]
-    name = "Go系列"
-    url = "go-categories/"
-    weight = 11
+    name = "开发工具"
+    url = "categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"
+    weight = 12
 
   [[menu.nav]]
-    name = "开发工具"
-    url = "devtool-categories/"
-    weight = 11
+    name = "归档"
+    url = "/posts/"
+    weight = 14
 
   [[menu.nav]]
     name = "关于"
