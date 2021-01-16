@@ -9,7 +9,7 @@ tags:
   - error
 ---
 
-在 Go 中传递错误的惯用方式是使用预定义的类型错误。但是 Go 的标准库仅提供了非常简单的错误对象，errors.New() 和fmt.Errorf()。
+在 Go 中传递错误的惯用方式是使用预定义的类型错误。但是 Go 的标准库仅提供了非常简单的错误对象，errors.New() 和 fmt.Errorf()。
 
 本文介绍了 CockroachDB 的 error 库（它是 Go 标准库库 errors 的直接替代品），Go 程序员如何用它来描述和传播其代码中的错误和错误代号（code）。
 
