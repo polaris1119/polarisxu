@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   themeColor = "#fcfcfc"
 
   homeSubtitle = "Go, Java&PHP, 服务端, 职场"
-  footerCopyright = ' &#183; <a href="http://www.beian.miit.gov.cn/">京ICP备14030343号-1</a>'
+  footerCopyright = ' &#183; <a href="https://beian.miit.gov.cn/">京ICP备14030343号-1</a>'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
