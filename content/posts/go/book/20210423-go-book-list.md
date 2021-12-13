@@ -50,7 +50,7 @@ tags:
 
 豆瓣评分：7.7，分数不高，应该是第一次印刷挺多编辑错误导致的，目前发现的错误都已改正，已完成第三次印刷。
 
-![](/Users/xuxinhua/opensource/polarisxu/content/posts/go/book/imgs/21go-book-list-03.png)
+![](imgs/21go-book-list-03.png)
 
 ### Go 语言学习笔记
 
@@ -100,7 +100,7 @@ tags:
 
 豆瓣评分：8.1
 
-![](/Users/xuxinhua/opensource/polarisxu/content/posts/go/book/imgs/21go-book-list-08.png)
+![](imgs/21go-book-list-08.png)
 
 ## 03 小结
 

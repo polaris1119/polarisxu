@@ -1,9 +1,8 @@
 ---
 title: "Rust 劝退系列 05：复合数据类型"
-date: 2021-04-25T12:30:00+08:00
+date: 2021-05-06T22:30:00+08:00
 toc: true
 isCJKLanguage: true
-draft: true
 tags: 
   - rust
   - 类型
@@ -262,3 +261,4 @@ first 和 last 有什么用？为啥不直接通过下标获取？
 我们用两篇讲解了 Rust 中的数据类型，同时和 Go 的数据类型进行了对比。但 Rust 中的数据类型不止这些，还有其他类型，我们以后再讲，包括通过标准库定义的数据类型。
 
 再强调一次，本系列教程的目标是让大家学习尽可能不被劝退，因此有些特别复杂但我认为可以不用的，就不会介绍。关于 Rust 中的 primitive type 可以在标准库文档找到，以及每个类型的方法。<https://doc.rust-lang.org/std/index.html#primitives>。
+
