@@ -78,7 +78,6 @@ vim-go 插件是免费的，易于安装，维护良好，经常在 Github 上�
 
 ![](imgs/top-go-ide-atom.png)
 
-
 该插件提供了构建流程、lints、vet 和覆盖测试等工具。此外还有自动完成、格式化、测试和文档功能。
 
 ## 总结
@@ -90,4 +89,3 @@ vim-go 插件是免费的，易于安装，维护良好，经常在 Github 上�
 注意，Eclipse 上的 Go 插件已经不维护了，所以大家别用 Eclipse 开发 Go 了。
 
 最后问一句，有人使用 Emacs 开发 Go 吗？
-

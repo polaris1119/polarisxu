@@ -33,7 +33,7 @@ Go 语言没有构造函数，一般通过定义 New 函数来充当构造函数
 ```go
 package main
 
-type Server {
+type Server struct {
   host string
   port int
 }
@@ -75,7 +75,7 @@ func main() {
 这种做法是为不同选项定义专有的构造函数。假如上面的 Server 增加了两个字段：
 
 ```go
-type Server {
+type Server struct {
   host string
   port int
   timeout time.Duration
@@ -115,7 +115,7 @@ func DialTimeout(network, address string, timeout time.Duration) (Conn, error)
 这种方式也是很常见的，特别是当配置选项很多时。通常可以创建一个 Config 结构体，其中包含 Server 的所有配置选项。这种做法，即使将来增加更多配置选项，也可以轻松的完成扩展，不会破坏 Server 的 API。
 
 ```go
-type Server {
+type Server struct {
   cfg Config
 }
 
