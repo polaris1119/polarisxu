@@ -44,7 +44,7 @@ comments: true
 
 ### 赠送星球历史精华 PDF
 
-![goodspdf](https://static.studygolang.com/190713/811a2a0d28295ca99ab92fb6705ba5d3.png)
+![goodspdf](https://static.golangjob.cn/190713/811a2a0d28295ca99ab92fb6705ba5d3.png)
 
 内容会不断更新
 
@@ -52,7 +52,7 @@ comments: true
 
 现在加入根据需要送 Go 经典电子书合集。加入后可以星球私聊我。
 
-![ebooks](https://static.studygolang.com/190318/dc4475b5efd76b9b4ebb22c47e92d3c9.png)
+![ebooks](https://static.golangjob.cn/190318/dc4475b5efd76b9b4ebb22c47e92d3c9.png)
 
 ### 往期直播的视频
 
@@ -84,11 +84,11 @@ comments: true
 
 立即扫码加入（259元/年）
 
-![zsxq](https://static.studygolang.com/190318/78d82346f5b28dfb88cec797a9c7d4fe.png?imageView2/2/w/380)
+![zsxq](https://static.golangjob.cn/190318/78d82346f5b28dfb88cec797a9c7d4fe.png?imageView2/2/w/380)
 
  或者给我们转账，然后加微信 274768166，我们拉你入星球成为付费用户，限时优惠：229元/年，便宜30元。先加微信再转账也可以。
 
- ![wxpay229](https://static.studygolang.com/static/img/wxpay229.jpg?imageView2/2/w/380)
+ ![wxpay229](https://static.golangjob.cn/static/img/wxpay229.jpg?imageView2/2/w/380)
 
 支持 3 天无理由退款。
 
@@ -101,6 +101,6 @@ comments: true
 
 欢迎关注 polarisxu，本博客文章首发于该公众号
 
-![](https://static.studygolang.com/static/img/polarisxu-qrcode-m.jpg?imageView2/2/w/280)
+![](https://static.golangjob.cn/static/img/polarisxu-qrcode-m.jpg?imageView2/2/w/280)
 
 
